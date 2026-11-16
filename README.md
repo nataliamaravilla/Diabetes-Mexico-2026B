@@ -4,15 +4,15 @@ Repositorio oficial del proyecto integrador enfocado en el desarrollo, evaluaci�
 
 El dataset fue recuperado de Kaggle en https://www.kaggle.com/datasets/frederickfelix/diabetes-mexico-data-set
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 El proyecto está organizado de la siguiente manera:
 
-├── 📊 Diabetes_Mexico.csv      # 
+├── 📊 Diabetes_Mexico.csv      
 **Conjunto de datos (ENSANUT 2024)**
 
 ├── 📜 funciones.py    
-#**Librería con las funciones y algoritmos implementados**
+**Librería con las funciones y algoritmos implementados**
 
 ├── 📓 Diabetes_Mexico.ipynb      
 **Jupyter Notebook con el flujo completo de análisis, entrenamiento y gráficas**
