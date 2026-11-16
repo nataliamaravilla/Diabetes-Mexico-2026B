@@ -8,7 +8,7 @@ El dataset fue recuperado de Kaggle en https://www.kaggle.com/datasets/frederick
 
 El proyecto está organizado de la siguiente manera:
 
-├── 📊 dataset_diabetes.csv      # 
+├── 📊 Diabetes_Mexico.csv      # 
 **Conjunto de datos (ENSANUT 2024)**
 
 ├── 📜 funciones.py    
