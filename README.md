@@ -8,16 +8,16 @@ El dataset fue recuperado de Kaggle en https://www.kaggle.com/datasets/frederick
 
 El proyecto está organizado de la siguiente manera:
 
-├── 📊 Diabetes_Mexico.csv      
+── 📊 Diabetes_Mexico.csv      
 **Conjunto de datos (ENSANUT 2024)**
 
-├── 📜 funciones.py    
+── 📜 funciones.py    
 **Librería con las funciones y algoritmos implementados**
 
-├── 📓 Diabetes_Mexico.ipynb      
+── 📓 Diabetes_Mexico.ipynb      
 **Jupyter Notebook con el flujo completo de análisis, entrenamiento y gráficas**
 
-└── 🖼️ PosterProyecto.pdf    
+── 🖼️ PosterProyecto.pdf    
 **Póster científico del proyecto en formato PDF**
 
 
